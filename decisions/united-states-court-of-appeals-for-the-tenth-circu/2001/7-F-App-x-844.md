@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Tenth Circuit"
+docket: "00-1427"
+decided: "2001-03-22"
+citations: ["7 F. App'x 844"]
+judges: ["Before JOHN C. PORFILIO, STEPHEN H. ANDERSON, and BALDOCK, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Benjamin SUAREZ-MORALES, also known as Benjamin Mendez, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/7/cases/0844-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 151689
+cites_cases: ["128 F.3d 1358", "232 F.3d 1329", "236 F.3d 582", "523 U.S. 224", "530 U.S. 466", "8 U.S.C. § 1326"]
+---
+
+# United States v. Suarez-Morales
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Benjamin SUAREZ-MORALES, also known as Benjamin Mendez, Defendant-Appellant.
+No. 00-1427.
+United States Court of Appeals, Tenth Circuit.
+March 22, 2001.
+Before JOHN C. PORFILIO, STEPHEN H. ANDERSON, and BALDOCK, Circuit Judges.
+
+## Majority (BALDOCK, Circuit Judge.)
+
+ORDER AND JUDGMENT
+BALDOCK, Circuit Judge.
+After examining the briefs and appellate record, this panel has determined unanimously to grant the parties’ request for a decision on the briefs without oral argument. See Fed.R.App.P. 34(f); 10th Cir.R. 34.1(G). The case is therefore ordered submitted without oral argument.
+Defendant was indicted for and pleaded guilty to one count of violating 8 U.S.C. § 1326(a), which prohibits a non-citizen alien from reentering the United States after deportation. The maximum penalty under the statute is two years in prison. Subsection (b) of the statute increases the maximum possible penalty to twenty years in prison if the defendant committed an aggravated felony before deportation. 8 U.S.C. § 1326(b). Defendant’s indictment did not allege a violation of § 1326(b), nor did it contain language charging that he had previously committed an aggravated felony.
+The district court sentenced defendant to forty-one months in prison, followed by three years of supervised release. That sentence included an enhancement because defendant had a prior aggravated felony conviction. On appeal, defendant argues that the maximum prison term to which he is subject is two years. He contends this limit is consistent with the maximum penalty contained in § 1326(a), which is both the offense alleged in the indictment and the offense to which he pleaded guilty. His argument rests on the United States Supreme Court’s recent decision in Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000) (to be reported at 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435).
+Apprendi held that “[ojther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.” Id. at 2362-63 (emphasis added). As defendant acknowledges, and as the language quoted above makes clear, the Apprendi rule is subject to an explicit exception, one the Supreme Court intended to shield its earlier decision in Almendarez-Torres v. United States, 523 U.S. 224, 118 S.Ct. 1219, 140 L.Ed.2d 350 (1998). See Apprendi, 120 S.Ct. at 2361-62.
+Interpreting the very statute at issue here, Almendarez-Torres ruled that the existence of a prior conviction is merely a sentencing factor, not a separate element of the offense to which the full panoply of due process protections attach. Id. at 235. As a consequence, the twenty-year prison term set forth in 8 U.S.C. § 1326(b) may apply even where the indictment failed to allege that the defendant had a prior aggravated felony conviction. Id. at 226-27, 235.
+Despite expressing misgivings about whether Almendarez-Torres was correctly decided, Apprendi specifically refused to overrule the earlier decision. See Apprendi, 120 S.Ct. at 2362 (stating “[e]ven though it is arguable that AlmendarezTorres was incorrectly decided ... we need not revisit it for purposes of our decision today to treat the case as a narrow exception to the general rule we recalled at the outset”). Moreover, this court has published two opinions since Apprendi stating that Almendarez-Torres remains binding authority within this circuit. See United States v. Martinez-Villalva, 232 F.3d 1329, 1332 (10th Cir.2000) and United States v. Dorris, 236 F.3d 582, 587 (10th Cir.2000). As we have said before, one panel of this court cannot overrule a decision of another panel. United States v. Hargus, 128 F.3d 1358, 1364 (10th Cir. 1997).
+Defendant informs that he brings his appeal to preserve an argument for the Supreme Court. He has done so. It remains our duty, however, to decide his case under the rule announced in Almendarez-Torres. The judgment of the United States District Court for the District of Colorado is AFFIRMED.
+This order and judgment is not binding precedent, except under the doctrines of law of the case, res judicata, and collateral estoppel. The court generally disfavors the citation of orders and judgments; nevertheless, an order and judgment may be cited under the terms and conditions of 10th Cir.R. 36.3.
