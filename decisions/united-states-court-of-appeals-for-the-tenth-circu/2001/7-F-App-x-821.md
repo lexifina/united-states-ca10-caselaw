@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Tenth Circuit"
+docket: "00-7102"
+decided: "2001-03-06"
+citations: ["7 F. App'x 821"]
+judges: ["Before HENRY, BRISCOE, and MURPHY, Circuit Judges."]
+parties: ["Teddy Wayne WEST, Petitioner-Appellant, v. Steve KAISER, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/7/cases/0821-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 151765
+cites_cases: ["11 F.3d 991", "120 S.Ct. 944", "141 F.3d 976", "145 L.Ed.2d 820", "158 F.3d 806", "173 F.3d 1278", "232 F.3d 799", "237 F.3d 1269", "28 U.S.C. § 2244", "28 U.S.C. § 2254", "404 U.S. 519", "430 U.S. 817", "528 U.S. 1120"]
+---
+
+# West v. Kaiser
+
+## Head matter
+
+Teddy Wayne WEST, Petitioner-Appellant, v. Steve KAISER, Respondent-Appellee.
+No. 00-7102.
+United States Court of Appeals, Tenth Circuit.
+March 6, 2001.
+Before HENRY, BRISCOE, and MURPHY, Circuit Judges.
+
+## Majority (HENRY, Circuit Judge.)
+
+ORDER AND JUDGMENT
+HENRY, Circuit Judge.
+After examining the briefs and appellate record, this panel has determined unanimously that oral argument would not materially assist the determination of this appeal. See Fed.R.App.P. 34(a)(2)(c); 10th Cir.R. 34.1(G). The case is therefore ordered submitted without oral argument
+Teddy W. West, a state prisoner proceeding pro se, appeals the district court’s dismissal of his habeas petition filed pursuant to 28 U.S.C. § 2254. We agree with the district court’s finding that Mr. West’s petition is untimely and that he has not presented claims for which relief should be granted. Accordingly, we decline to issue a certificate of appealability and dismiss the appeal.
+Mr. West was convicted of escape from a county jail, robbery with a dangerous weapon, assisting a prisoner to escape, and robbery by force or fear. In his habeas petition, Mr. West alleged that he (1) received ineffective assistance of trial and appellate counsel and (2) was deprived of due process and equal protection through his enhanced sentence. The district dismissed Mr. West’s petition for habeas corpus as untimely under the one-year limitation period in 28 U.S.C. § 2244(d), and subsequently denied his application for a certificate of appealability. Before us is a renewed application for a certificate of appealability and a motion to proceed in for-ma pauperis.
+“In reviewing the denial of a habeas corpus petition, we review the district court’s factual findings under a clearly erroneous standard, and its legal conclusions de novo,” keeping in mind that “our review of the state court’s proceedings is quite limited.” Rogers v. Gibson, 173 F.3d 1278, 1282 (10th Cir.1999), cert. denied, 528 U.S. 1120, 120 S.Ct. 944, 145 L.Ed.2d 820 (2000). Under the Antiterrorism and Effective Death Penalty Act of 1996 (AED-PA), Mr. West’s conviction became final on December 15, 1997, which marked the conclusion of the ninety-day period for filing a petition for certiorari to the Supreme Court. See Locke v. Saffle, 237 F.3d 1269, 1271-72 (10th Cir.2001) (stating that “the one-year limitation period begins to run when the time for filing a certiorari petition expires” and “the period of ‘direct review’ in § 2244(d)(1)(A) includes the period within which a petitioner can file a petition for a writ of certiorari from the United States Supreme Court, whether or not the petitioner actually files such a petition.”) (internal quotation marks and citations omitted). As a result, on December 15, 1997, the one-year limitation period for filing an application for a writ of habeas corpus began to run, see § 2244(d)(1), subject to the tolling provision in § 2244(d)(2).
+Because Mr. West filed an application for post-conviction relief in state court on September 8, 1998, the limitation period was suspended for 256 days until the Oklahoma Court of Criminal Appeals affirmed the denial of post-conviction relief on May 21, 1999. See 28 U.S.C. § 2244(d)(2). Mr. West subsequently filed his habeas petition in federal court on October 28, 1999, 61 days after the one-year time limit expired. The district court issued an order determining Mr. West untimely filed his petition and that no equitable tolling was warranted.
+On appeal, Mr. West asks us to reconsider his claim that equitable tolling is warranted. We have held that “AEDPA’s one-year statute of limitations is subject to equitable tolling but only ‘in rare and exceptional circumstances.’ ” Gibson v. Klinger, 232 F.3d 799, 808 (10th Cir.2000) (quoting Davis v. Johnson, 158 F.3d 806, 811 (5th Cir.1998)). Examples of such circumstances are actual innocence or when uncontrollable circumstances prevent an inmate from timely filing. “Simple excusable neglect is not sufficient.” Id., 232 F.3d at 811.
+In support of equitable tolling, Mr. West argues that he was unable to file his petition because of the inadequate legal facilities and legal assistance available in the private correctional facility in which he is incarcerated. We have stated that “[a] state may elect to provide legal assistance to inmates in lieu of maintaining an adequate prison law library.” Petrick v. Maynard, 11 F.3d 991, 995 (10th Cir.1993). Legal assistance does not necessarily mean assistance from a lawyer; rather, it can mean “adequate assistance from persons trained in the law,” Bounds v. Smith, 430 U.S. 817, 828, 97 S.Ct. 1491, 52 L.Ed.2d 72 (1977), such as law clerks, paralegals, volunteer attorneys, or staff attorneys.
+Mr. West contends that one contract attorney assists approximately 2,500 inmates at three separate Corrections Corporations of America-owned correctional facilities. In further support of his argument that the limitation period should be equitably tolled, he states that he had to wait eight to twelve weeks for assistance from the contract attorney and that he had to wait approximately sixty days for transcripts from the court reporter.
+We agree with the conclusions of the district court that Mr. West’s petitions were untimely and that Mr. West’s pleadings, which we construe liberally pursuant to Haines v. Kerner, 404 U.S. 519, 520-21, 92 S.Ct. 594, 30 L.Ed.2d 652 (1972) (per curiam), suggest no basis for equitable tolling. Specifically, he has not demonstrated how the unavailability of access to counsel or materials delayed his application, which merely appended his state post-conviction filing. See Miller v. Marr, 141 F.3d 976, 978 (10th Cir.1998) (rejecting equitable tolling in part because of similarity of claims raised by petitioner on direct review and in state post-conviction motion). As such, Mr. West has not demonstrated any extraordinary way that he has been prevented from asserting his rights. See id. (suggesting equitable tolling of limitation period when delay is encountered with circumstances over which inmate had no control and inmate has diligently pursued his claims). In addition, Mr. West provides us with little specificity regarding the steps he took to diligently pursue his federal claims so as to justify equitable tolling of the limitation period. See id.
+We have thoroughly reviewed the record on appeal, Mr. West’s brief, and the district court’s order. Accordingly, we GRANT his motion to proceed in forma pauperis, DENY his request for a certificate of appealability for substantially the same reasons set forth in the district court’s order, and DISMISS the appeal.
+This order and judgment is not binding precedent, except under the doctrines of law of the case, res judicata, and collateral estoppel. The court generally disfavors the citation of orders and judgments; nevertheless, an order and judgment may be cited under the terms and conditions of 10th Cir.R. 36.3.
