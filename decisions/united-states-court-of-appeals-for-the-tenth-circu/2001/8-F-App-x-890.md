@@ -1,0 +1,51 @@
+---
+court: "United States Court of Appeals for the Tenth Circuit"
+docket: "00-6353"
+decided: "2001-03-29"
+citations: ["8 F. App'x 890"]
+parties: ["Ainsworth C. JACKSON, Petitioner-Appellant, v. E.W. MORRIS, Warden; United States Parole Commission, Respondents-Appellees."]
+source_url: "https://static.case.law/f-appx/8/cases/0890-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 147839
+cites_cases: ["111 F.3d 963", "1998 WL 389111", "1999 WL 151149", "20 C.F.R. § 2.20", "208 F.3d 205", "229 F.3d 997", "28 C.F.R. § 2.20", "28 C.F.R. § 2.65", "28 C.F.R. § 2.87", "28 U.S.C. § 2241", "28 U.S.C. § 2244", "62 F.3d 333", "835 F.2d 754", "889 F.2d 254", "891 F.2d 287", "908 F.2d 635", "949 F.2d 325", "950 F.2d 656"]
+---
+
+# Jackson v. Morris
+
+## Head matter
+
+Ainsworth C. JACKSON, Petitioner-Appellant, v. E.W. MORRIS, Warden; United States Parole Commission, Respondents-Appellees.
+No. 00-6353.
+United States Court of Appeals, Tenth Circuit.
+March 29, 2001.
+Before HENRY, BRISCOE, and MURPHY, Circuit Judges.
+
+## Majority (BRISCOE, Circuit Judge.)
+
+ORDER AND JUDGMENT
+BRISCOE, Circuit Judge.
+After examining the briefs and appellate record, this panel has determined unanimously that oral argument would not materially assist the determination of this appeal. See Fed.RApp.P. 34(a)(2); 10th Cir.R. 34.1(G). The case is therefore ordered submitted without oral argument.
+Petitioner Ainsworth C. Jackson, a federal prisoner proceeding pro se, appeals the district court’s denial of his 28 U.S.C. § 2241 habeas petition. We affirm.
+I.
+Jackson was sentenced in federal court to six years’ imprisonment for bank fraud -on April 11, 1989. His conviction was affirmed on direct appeal. See United States v. Jackson, No. 89-5108, 891 F.2d 287 (4th Cir. Nov. 22, 1989). He was sentenced to a four-month to one-year term in District of Columbia Superior Court for violation of the Bail Reform Act on April 14, 1989, and to a two to six-year term for uttering and forgery on April 18, 1989. All of the sentences were combined into an aggregate sentence of four year’s and four months to thirteen years. Jackson was paroled on August 27, 1994. His certificate of parole stated he had a total of 3,024 days remaining to be served and he was to remain under parole supervision until December 7, 2002.
+Jackson was arrested on August 16, 1995, for interstate transportation of securities taken by fraud, and on September 8, 1995, a parole violation warrant was issued, to be placed “as a detainer” against Jackson. Jackson was convicted of the fraud charge and sentenced to a term of 57 months on May 1, 1996. His conviction and sentence were affirmed on direct appeal. See United States v. Jackson, No. 96-3066, 111 F.3d 963 (D.C.Cir. Mar. 13, 1997). Jackson’s Section 2255 habeas petition challenging his conviction and sentence was denied, see United States v. Jackson, No. 98-3010, 1998 WL 389111 (D.C.Cir. June 26, 1998), and his petition for a writ of mandamus and prohibition was denied, see In re Jackson, No. 99-3017, 1999 WL 151149 (D.C.Cir. Feb. 26, 1999). The projected date of completion of this sentence was October 6, 1999. In late 1996, the Parole Commission acted to permit its detainer to stand so it could act on it when Jackson’s 57-month sentence was completed.
+Jackson filed a Section 2241 habeas petition in Pennsylvania federal district court, contending the calculation of his sentence was improper because the state sentence was intended to run concurrent with the federal sentence and his constitutional rights were violated by the lodging of the parole detainer against him. On March 26, 1999, the court denied the habeas petition, finding the “D.C. sentence was properly calculated to run consecutive to the previously imposed federal sentence, and [Jackson’s] parole was to end in December of 2002. The U.S. Parole Commission had jurisdiction to file a parole violator warrant which has not been executed and is properly lodged against the petitioner as a detainer.” Doc. 18, Ex. 2 at 9. His appeal from the denial was dismissed. See Jackson v. Mendez, No. 99-3291, 208 F.3d 205 (3d Cir. Jan. 11, 2000) (table).
+A parole revocation hearing was held on December 1, 1999, resulting in a recommendation that parole be revoked and “[cjontinue to a presumptive parole after the service of 100 months on December 16, 2003.” Supp.App. at 137.
+Jackson filed his Section 2241 petition on December 14, 1999, arguing (1) he was being illegally detained because his seven-year sentence had expired; (2) the Parole Commission did not conduct a timely revocation hearing after it executed the parole violator warrant; (3) respondents conducted an illegal parole revocation hearing using federal guidelines to determine his release date; and (4) he was denied access to the courts. The district court dismissed issues (1) and (2) as successive and issues (3) and (4) on the merits.
+II.
+We review de novo the district court’s denial of habeas relief. See Hunnicutt v. Hawk, 229 F.3d 997, 1000 (10th Cir.2000). However, to the extent Jackson is challenging a decision of the Parole Commission, the appropriate standard of review is “whether the decision is arbitrary and capricious or is an abuse of discretion.” Lewis v. Beeler, 949 F.2d 325, 331 (10th Cir.1991).
+A court of review need only determine whether the information relied on by the Commission is sufficient to provide a factual basis for its reasons. The inquiry is not whether the Commission’s decision is supported by the preponderance of the evidence, or even by substantial evidence; the inquiry is only whether there is a rational basis in the record for the Commission’s conclusions embodied in its statement of reasons.
+Id. at 332 (quoting Misasi v. United States Parole Comm’n, 835 F.2d 754, 758 (10th Cir.1987)).
+Jackson’s first two issues were expressly rejected by the Pennsylvania federal district court. The fact that Jackson has styled his arguments to raise different aspects of the issues is to no avail.
+No circuit or district judge shall be required to entertain an application for a writ of habeas corpus to inquire into the detention of a person pursuant to a judgment of a court of the United States if it appears that the legality of such detention has been determined by a judge or court of the United States on a prior application for a writ of habeas corpus.
+28 U.S.C. § 2244(a); see also George v. Perril, 62 F.3d 333, 334 (10th Cir.1995) (“Under 28 U.S.C. § 2244(a) ... a section 2241 petition which presents no new grounds for relief is subject to dismissal as a successive petition unless the ends of justice require consideration of the merits.”).
+Jackson has waived appellate review of issue (4) because he did not challenge the magistrate’s findings on this issue. See Moore v. United States, 950 F.2d 656, 659 (10th Cir.1991).
+Two of Jackson’s allegations with respect to issue (3) relate to the offense severity rating and salient factor score assigned by the Parole Commission. The sentencing guidelines “establish a presumptive parole date by rating the severity of an offender’s crime and his salient factor score.” See Montoya v. United States Parole Comm’n, 908 F.2d 635, 637 (10th Cir.1990). “[J]udicial review of Parole Commission determinations is quite limited.” Fiumara v. O’Brien, 889 F.2d 254, 257 (10th Cir.1989).
+The “salient factor” score is the risk the offender will violate parole. See Montoya, 908 F.2d at 637 (citing 28 C.F.R. § 2.20).
+An offender’s salient factor score, or parole prognosis, is determined by considering the following factors: the number of prior convictions, from none to four or more; prior commitments of more than thirty days, from none to three or more; the offender’s age at the time of committing the current offense; whether the offender had been released from commitment for three years prior to the current offense; whether the offender was on probation, parole or in confinement; and the offender’s history of drug dependence.
+Id.
+In his initial petition Jackson argued his salient score factor should have been four, but the parole officer scored it as three. The record reflects that Jackson’s salient score factor was two. A salient score factor of zero, one, two, or three indicates that a prospective parolee has a poor parole prognosis. See 20 C.F.R. § 2.20. A score of four would rank a potential parolee as having a “fair” parole prognosis. See id.
+Jackson asserts the Parole Commission “used erroneous information” with respect to “how many times [he] had been convicted, and how many times [he] had been incarcerated for thirty days or more.” Br. at 3A. He argues “[a]dding up the prior commitments of more than thirty days, minus the over-turned convictions, and counting these convictions, it gives petitioner only three prior commitments of more than thirty days, and seven convictions, not twelve convictions as the examiner had stated.” Id., App. C at 8-9. A review of the salient factor score sheet with respect to prior commitments, see SuppApp. at 140, reveals if there are three or more commitments of more than thirty days a defendant is not entitled to any points. Even assuming, as alleged, that Jackson had only three prior commitments of more than thirty days, he still would not receive any points. With respect to prior convictions, the only benefit is if there are less than four. Here, Jackson concedes he has seven convictions.
+Finally, Jackson contends that during his parole hearing on December 1, 1999, the Parole Commission should have used 28 C.F.R. § 2.65, which provides the policy for prisoners serving aggregate United States and District of Columbia sentences. Jackson ignores the express provision for reparole of District of Columbia offenders: “Each decision to grant or deny reparole shall be made by reference to the Commission’s reparole guidelines at § 2.21.” 28 C.F.R. § 2.87 (1999).
+AFFIRMED. Jackson’s request to proceed on appeal in forma pauperis is GRANTED. The mandate shall issue forthwith.
+This order and judgment is not binding precedent, except under the doctrines of law of the case, res judicata, and collateral estoppel. The court generally disfavors the citation of orders and judgments; nevertheless, an order and judgment may be cited under the terms and conditions of 10th Cir.R. 36.3.
