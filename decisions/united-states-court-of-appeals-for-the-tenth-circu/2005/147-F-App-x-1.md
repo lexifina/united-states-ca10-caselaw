@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Tenth Circuit"
+docket: "04-2289"
+decided: "2005-07-13"
+citations: ["147 F. App'x 1"]
+judges: ["Before SEYMOUR, HARTZ, and McCONNELL, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Jose Benito GUEVARA-RAMIREZ, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/147/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1249384
+cites_cases: ["125 S.Ct. 1254", "125 S.Ct. 738", "18 U.S.C. §§ 3553", "2005 WL 1519115", "396 F.3d 1140", "403 F.3d 727", "503 U.S. 193", "542 U.S. 296", "8 U.S.C. § 1326"]
+---
+
+# United States v. Guevara-Ramirez
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Jose Benito GUEVARA-RAMIREZ, Defendant-Appellant.
+No. 04-2289.
+United States Court of Appeals, Tenth Circuit.
+July 13, 2005.
+Kenneth J. Gonzales, Office of the United States Attorney District of New Mexico, Las Cruces, NM, Laura Fashing, Office of the US Attorney, Albuquerque, NM, for Plaintiff-Appellee.
+Kurt J. Mayer, Federal Public Defender Office, Las Cruces, NM, for Defendant-Appellant.
+Before SEYMOUR, HARTZ, and McCONNELL, Circuit Judges.
+
+## Majority (SEYMOUR, Circuit Judge.)
+
+ORDER AND JUDGMENT
+SEYMOUR, Circuit Judge.
+Jose Benito Guevara-Ramirez pled guilty to one count of illegal reentry following deportation after conviction for an aggravated felony, in violation of 8 U.S.C. § 1326(a)(1), (2), and (b)(2). On appeal, he contends the district court unconstitutionally enhanced his sentence under a mandatory guidelines regime, in violation of Blakely v. Washington, 542 U.S. 296, 124 S.Ct. 2531, 159 L.Ed.2d 403 (2004), on the basis of his prior convictions. He also argues that the government did not sufficiently prove the existence of two of these convictions, in violation of Shepard v. United States, — U.S. -, 125 S.Ct. 1254, 161 L.Ed.2d 205 (2005). We vacate Mr. Guevara-Ramirez’s sentence and remand for re-sentencing.
+Mr. Guevara-Ramirez’s plea to illegal reentry yielded a base offense level of eight. U.S.S.G. § 2L1.2(a). His presentence report (PSR) recommended a sixteen-level increase due to a prior conviction of assault with a deadly weapon with great bodily injury, which was a crime of violence. § 2L1.2(b)(l)(A). His offense level was decreased by three levels for acceptance of responsibility, resulting in a total offense level of twenty-one. The PSR added three points to his criminal history for the assault conviction. It then assigned one point for a 2001 conviction for driving under the influence, and another point for a 2003 felony conviction for unlawful possession of one gram or less of a schedule 2 controlled substance. Because Mr. Guevara-Ramirez committed the present offense while under a criminal justice sentence in connection with his 2001 conviction, he was subject to a further two point increase pursuant to U.S.C.G. § 4Al.l(d). In sum, the PSR calculated seven criminal history points, resulting in a criminal history category of IV and a guideline range of 57 to 71 months.
+Citing Blakely, Mr. Guevara-Ramirez objected to his sentencing under a mandatory guidelines scheme, and to the characterization of his assault conviction as a “crime of violence.” He also objected to the inclusion of criminal history points for his 2001 and 2003 convictions on the grounds that the government had not sufficiently proven they existed. The district court overruled both objections. It concluded that Blakely did not mandate a different sentence, and found that documents produced by the government were sufficient to prove the existence of the prior convictions by a preponderance of the evidence. It sentenced him at the bottom of the guideline range, to 57 months imprisonment.
+In United States v. Booker, — U.S. -, 125 S.Ct. 738, 160 L.Ed.2d 621 (2005), the Supreme Court applied Blakely to the Sentencing Guidelines to hold the Sixth Amendment requires that “[a]ny fact (other than a prior conviction) which is necessary to support a sentence exceeding the maximum authorized by the facts established by plea of guilty or a jury verdict must be admitted by the defendant or proved to the jury beyond a reasonable doubt.” Id. at 756. To remedy the Sixth Amendment difficulties with the guidelines, the Court also invalidated their mandatory application and required that district courts apply them as merely advisory. Id. (excising 18 U.S.C. §§ 3553(b)(1)). Thus, the Court in Booker established two distinct types of error that can be committed by a court at sentencing: violations of the Sixth Amendment and of Booker’s remedial holding. See United States v. Gonzalez-Huerta, 403 F.3d 727, 731-32 (10th Cir.2005).
+The record demonstrates that the district court applied the guidelines involuntarily to Mr. Guevara-Ramirez thereby violating Booker’s remedial holding. See United States v. Labastida-Segura, 396 F.3d 1140, 1142 (10th Cir.2005). Mr. Guevara-Ramirez preserved this issue for appeal by raising his Blakely challenge below. See id. at 1142-43. “[Ojnce the court of appeals has decided that the district court misapplied the Guidelines, a remand is appropriate unless the reviewing court concludes, on the record as a whole, that the error was harmless, i.e., that the error did not affect the district court’s selection of the sentence imposed.” Id. at 1143 (quoting Williams v. United States, 503 U.S. 193, 203, 112 S.Ct. 1112, 117 L.Ed.2d 341 (1992)). The government concedes that Labastida-Segura applies to this case and that a remand is appropriate. We therefore remand for re-sentencing on this ground.
+Mr. Guevara-Ramirez further contends he should not have received criminal history points on the basis of the 2001 and 2003 convictions because the government did not present sufficient evidence that these convictions existed. He also challenges his receipt of two additional points for committing the present offense while under a criminal justice sentence in connection with the 2001 conviction. He claims that without these disputed convictions, his criminal history score would have been 3, his criminal history category II, and his sentencing range 41 to 51 months imprisonment. To prove these convictions, the government presented printouts of computer records from the Colorado courts where the convictions were allegedly secured via guilty pleas. For the 2001 conviction and sentence, the record consisted of an uncertified Register of Action. Aple. Br. Ex. 4. The government also submitted minute orders with a Register of Action, also uncertified, to substantiate the 2003 conviction. Id. Ex. 5.
+Mr. Guevara-Ramirez argues that the uncertified registers of action and minute orders do not fall within the constraints of Shepard. On remand, the district court should consider whether the government’s proffers establish its burden in light of Shepard. Cf., e.g., United States v. Taylor, 2005 WL 1519115, at *9 (10th Cir. Jun.28, 2005).
+For the aforementioned reasons, we VACATE the district court’s sentence and REMAND for further proceedings consistent with this opinion.
+After examining appellant’s brief and the appellate record, this panel has determined unanimously that oral argument would not materially assist the determination of this appeal. See Fed. R.App. P. 34(a)(2) and 10th Cir. R. 34.1(G). The case is therefore submitted without oral argument. This order and judgment is not binding precedent, except under the doctrines of law of the case, res judicata, or collateral estoppel. The court generally disfavors the citation of orders and judgments; nevertheless, an order and judgment may be cited under the terms and conditions of 10th Cir. R. 36.3.
